@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "sripriya-n-s-v-b-s-b-t-s-kanchibhattaru-658a04242",
   medium: "",
   twitter: "microsoft",
-  youTube: "sripriyas_creativeminds_sr2740",
+  youTube: "@sripriyas_creativeminds_sr2740?si=mMfsR1CWFkKYHSh6",
 };
 
 const primaryColor = "#4E567E";
