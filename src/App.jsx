@@ -27,12 +27,12 @@ const siteProps = {
   name: "Sripriya Kanchibhattaru",
   title: "Tech Aficionado",
   email: "SripriyaNSVBSBTS.Kanchibhattaru@studentambassadors.com",
-  gitHub: "https://github.com/sripriya503",
-  instagram: "https://instagram.com/the_name_is_india",
-  linkedIn: "https://www.linkedin.com/in/sripriya-n-s-v-b-s-b-t-s-kanchibhattaru-658a04242",
+  gitHub: "sripriya503",
+  instagram: "the_name_is_india",
+  linkedIn: "sripriya-n-s-v-b-s-b-t-s-kanchibhattaru-658a04242",
   medium: "",
   twitter: "microsoft",
-  youTube: "https://www.youtube.com/@sripriyas_creativeminds_sr2740",
+  youTube: "@sripriyas_creativeminds_sr2740",
 };
 
 const primaryColor = "#4E567E";
