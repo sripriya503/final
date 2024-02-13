@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Sripriya Kanchibhattaru",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "Tech Aficionado",
+  email: "SripriyaNSVBSBTS.Kanchibhattaru@studentambassadors.com",
+  gitHub: "https://github.com/sripriya503",
+  instagram: "https://instagram.com/the_name_is_india",
+  linkedIn: "https://www.linkedin.com/in/sripriya-n-s-v-b-s-b-t-s-kanchibhattaru-658a04242",
   medium: "",
   twitter: "microsoft",
-  youTube: "Code",
+  youTube: "https://www.youtube.com/@sripriyas_creativeminds_sr2740",
 };
 
 const primaryColor = "#4E567E";
