@@ -31,9 +31,9 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design & Development",
+  "Web design and Development",
   "Internet of Things (IoT)",
-  "Cyber Security",
+  "CyberSecurity",
   "Artificial Intelligence (AI)",
   "Machine Learning (ML)",
   "Data Science",
